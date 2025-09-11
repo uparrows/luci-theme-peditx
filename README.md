@@ -6,7 +6,8 @@
 
 [**English**](README.md) | [**فارسی**](README_fa.md) | [**中文**](README_zh.md) | [**Русский**](README_ru.md)
 
-###Warning: This code is outdated and is no longer being updated! For new versions, please use this link:
+### Warning:
+This code is outdated and is no longer being updated! For new versions, please use this link:
 
 https://github.com/peditx/PeDitXOs
 
