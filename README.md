@@ -6,6 +6,10 @@
 
 [**English**](README.md) | [**فارسی**](README_fa.md) | [**中文**](README_zh.md) | [**Русский**](README_ru.md)
 
+###Warning: This code is outdated and is no longer being updated! For new versions, please use this link:
+
+https://github.com/peditx/PeDitXOs
+
 PeDitX is a theme designed for OpenWrt, specifically optimized for mobile devices. It is the first theme from PeDitX for OpenWrt and is highly optimized and visually appealing. It also supports **PWA** (Progressive Web App) functionality, making it compatible with modern web standards, and is easily usable across all OpenWrt versions.
 
 ## Features:
