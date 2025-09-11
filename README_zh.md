@@ -6,6 +6,14 @@
 
 [**English**](README.md) | [**فارسی**](README_fa.md) | [**中文**](README_zh.md) | [**Русский**](README_ru.md)
 
+### 警告： 
+### 此代码已过时，不再更新！请使用此链接获取新版本：
+
+### https://github.com/peditx/PeDitXOs
+
+
+
+
 PeDitX 是专为 OpenWrt 设计的主题，特别是为移动设备优化。它是 PeDitX 对 OpenWrt 的第一个主题，并且高度优化且视觉上很吸引人。它还支持 **PWA**（渐进式网络应用程序）功能，使其符合现代网络标准，并且易于在所有 OpenWrt 版本中使用。
 
 ## 功能：
